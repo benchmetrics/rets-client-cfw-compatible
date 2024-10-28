@@ -1,5 +1,10 @@
-rets-client
-===========
+rets-client-cfw-compatible
+==========================
+
+A fork of the original `rets-client` client that is compatible with Cloudflare Workers. **Maybe.** This is a work in progress.
+
+**Original README below**
+
 [UNMAINTAINED]
 
 A  RETS (Real Estate Transaction Standard) client for Node.js.
